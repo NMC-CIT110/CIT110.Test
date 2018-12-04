@@ -8,7 +8,7 @@ namespace CII110.Test
 {
     class Program
     {
-        // a comment
+        // a new comment
         static void Main(string[] args)
         {
         }
